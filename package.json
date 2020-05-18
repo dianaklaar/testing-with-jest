@@ -26,5 +26,13 @@
     "jest": "^26.0.1",
     "webpack": "^4.43.0",
     "webpack-cli": "^3.3.11"
-  }
+  },
+  "keywords": [
+    "A",
+    "jest",
+    "+",
+    "npm",
+    "lab",
+    "session"
+  ]
 }
